@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Adventure Story Book",
+    "title": "An adventurous journey through time and space",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Epic Adventure Tales",
+    "title": "Explore the wild and wonderful worlds of adventure",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Culinary 101",
+    "title": "A beginner's guide to mastering culinary skills",
+    "price": 12,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Scientific Wonders",
+    "title": "Discover the amazing world of science experiments",
+    "price": 18,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mystery Stories",
+    "title": "Unravel the secrets hidden in these thrilling novels",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 6,
+    "name": "History Revealed",
+    "title": "Dive deep into our past with engaging tales",
+    "price": 25,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Poetry Anthology",
+    "title": "A beautiful collection of heartfelt poems",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Global Travel Diaries",
+    "title": "Explore the world through captivating travel stories",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Complete Fitness Guide",
+    "title": "Achieve your fitness goals with this comprehensive guide",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Artistic Mastery",
+    "title": "Master the art of painting and drawing techniques",
+    "price": 30,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 6,
+    "name": "History Revealed",
+    "title": "Dive deep into our past with engaging tales",
+    "price": 25,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Poetry Anthology",
+    "title": "A beautiful collection of heartfelt poems",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://t4.ftcdn.net/jpg/07/32/95/29/240_F_732952965_kSKLR060p1wgDOG030I8aK5x7CivzlVc.jpg"
+  }
+]

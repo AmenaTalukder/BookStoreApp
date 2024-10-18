@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur elit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://t4.ftcdn.net/jpg/05/72/74/41/240_F_572744127_pAjymei2cmchpt4v96UcLwpLakIz0Hwn.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Tales",
+    "title": "Explore the wild and wonderful worlds of adventure",
+    "price": 0,
+    "category": "Free",
+    "image": "https://t4.ftcdn.net/jpg/05/72/74/41/240_F_572744127_pAjymei2cmchpt4v96UcLwpLakIz0Hwn.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cooking 101",
+    "title": "A beginner's guide to cooking delicious meals",
+    "price": 0,
+    "category": "Free",
+    "image": "https://t4.ftcdn.net/jpg/05/72/74/41/240_F_572744127_pAjymei2cmchpt4v96UcLwpLakIz0Hwn.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Science Wonders",
+    "title": "Discover the amazing world of science",
+    "price": 0,
+    "image": "https://t4.ftcdn.net/jpg/05/72/74/41/240_F_572744127_pAjymei2cmchpt4v96UcLwpLakIz0Hwn.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mystery Novels",
+    "title": "Unravel the secrets hidden in these pages",
+    "price": 0,
+    "category": "Free",
+    "image": "https://t4.ftcdn.net/jpg/05/72/74/41/240_F_572744127_pAjymei2cmchpt4v96UcLwpLakIz0Hwn.jpg"
+  },
+  {
+    "id": 6,
+    "name": "History Unveiled",
+    "title": "Dive into the depths of our past",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20220927/original/pngtree-world-book-day-cartoon-character-book-book-png-image_8638433.png"
+  },
+  {
+    "id": 7,
+    "name": "Poetry Collection",
+    "title": "A beautiful collection of heartwarming poems",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20220927/original/pngtree-world-book-day-cartoon-character-book-book-png-image_8638433.png"
+  },
+  {
+    "id": 8,
+    "name": "Travel Diaries",
+    "title": "Explore the world through travel stories",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20220927/original/pngtree-world-book-day-cartoon-character-book-book-png-image_8638433.png"
+  },
+  {
+    "id": 9,
+    "name": "Fitness Guide",
+    "title": "Achieve your fitness goals with this guide",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20220927/original/pngtree-world-book-day-cartoon-character-book-book-png-image_8638433.png"
+  },
+  {
+    "id": 10,
+    "name": "Art Mastery",
+    "title": "Master the art of painting and drawing",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/png-clipart/20220927/original/pngtree-world-book-day-cartoon-character-book-book-png-image_8638433.png"
+  }
+]
