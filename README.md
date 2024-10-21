@@ -1,6 +1,10 @@
 BookStoreApp 📚
 BookStoreApp is a full-stack web application designed to manage an online bookstore. The app allows users to browse, search, and purchase books, while admins can manage book inventory and user orders. This project is divided into two parts: the backend and frontend.<br>
 
+##Demo
+![Screenshot 2024-10-21 160238](https://github.com/user-attachments/assets/49119072-48d9-4b1c-a16e-47601510c10d)
+![Screenshot 2024-10-21 160258](https://github.com/user-attachments/assets/ddb198c4-9d40-4038-9051-fee405b8170f)
+
 Features:<br>
 User-friendly Interface: Browse books by categories, authors, and search by title.<br>
 Admin Panel: Add, update, or remove books from the inventory, view user orders.<br>
