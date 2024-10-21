@@ -1,24 +1,14 @@
 BookStoreApp 📚
-BookStoreApp is a full-stack web application designed to manage an online bookstore. Users can browse, search, and purchase books, while admins can manage the book inventory and user orders. The project is divided into two main sections: the backend and frontend.<br>
+BookStoreApp is a full-stack web application designed to manage an online bookstore. The app allows users to browse, search, and purchase books, while admins can manage book inventory and user orders. This project is divided into two parts: the backend and frontend.<br>
 
 Features:<br>
-<br>User-friendly Interface:<br>
-Browse books by categories, authors, or search by title.<br>
-Admin Panel:<br>
-Add, update, or remove books from the inventory.<br>
-View and manage user orders.<br>
-Authentication:<br>
-User registration, login, and profile management.<br>
-Cart Management:<br>
-This feature is not available,now.<br>
-Responsive Design:<br>
-Optimized for both desktop and mobile devices.<br>
-Technologies Used:<br>
-Frontend:<br>
-React, HTML5, CSS3, JavaScript, Tailwind CSS.<br>
-Backend:<br>
-Node.js, Express, MongoDB.<br>
-API Integration:<br>
-RESTful API for communication between the frontend and backend.<br>
-Authentication:<br>
-JSON Web Tokens (JWT) for secure user sessions.
+User-friendly Interface: Browse books by categories, authors, and search by title.<br>
+Admin Panel: Add, update, or remove books from the inventory, view user orders.<br>
+Authentication: User registration, login, and profile management.<br>
+Cart Management: //Add books to cart, manage quantities, and proceed to checkout// This feature is not available,now .<br>
+Responsive Design: Optimized for both desktop and mobile devices.<br>
+Technologies:<br>
+Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS.<br>
+Backend: Node.js, Express, MongoDB for data storage.<br>
+API Integration: RESTful API for communication between frontend and backend.<br>
+Authentication: JSON Web Tokens (JWT) for secure user sessions.<br>
