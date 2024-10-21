@@ -11,7 +11,7 @@ Features:<br>
 User-friendly Interface: 
 Browse books by categories, authors, and search by title.<br>
 Dark & Light Mode:
-Seamless toggle between dark and light themes for an enhanced user experience.
+Seamless toggle between dark and light themes for an enhanced user experience.<br>
 Admin Panel: Add, update, or remove books from the inventory, view user orders.<br>
 Authentication: 
 User registration, login, and profile management.<br>
