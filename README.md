@@ -7,6 +7,7 @@ Admin Panel: Add, update, or remove books from the inventory, view user orders.<
 Authentication: User registration, login, and profile management.<br>
 Cart Management: //Add books to cart, manage quantities, and proceed to checkout// This feature is not available,now .<br>
 Responsive Design: Optimized for both desktop and mobile devices.<br>
+
 Technologies:<br>
 Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS.<br>
 Backend: Node.js, Express, MongoDB for data storage.<br>
