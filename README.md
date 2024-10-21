@@ -1,2 +1,14 @@
-![screencapture-localhost-5173-2024-10-21-16_04_14](https://github.com/user-attachments/assets/ec535bd9-e72d-41f8-8f80-ab3751daa11e)
-![screencapture-localhost-5173-course-2024-10-21-16_03_58](https://github.com/user-attachments/assets/c14b38d5-5ec0-4c8c-94c0-0fd543d1f5e9)
+BookStoreApp 📚
+BookStoreApp is a full-stack web application designed to manage an online bookstore. The app allows users to browse, search, and purchase books, while admins can manage book inventory and user orders. This project is divided into two parts: the backend and frontend.
+
+Features:
+User-friendly Interface: Browse books by categories, authors, and search by title.
+Admin Panel: Add, update, or remove books from the inventory, view user orders.
+Authentication: User registration, login, and profile management.
+Responsive Design: Optimized for both desktop and mobile devices.
+
+Technologies:
+Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS.
+Backend: Node.js, Express, MongoDB for data storage.
+API Integration: RESTful API for communication between frontend and backend.
+Authentication: JSON Web Tokens (JWT) for secure user sessions.
